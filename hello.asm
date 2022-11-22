@@ -1,6 +1,7 @@
 ; --------------------------------------------------------------
 ; Writes "Hello, World!" to the console using only system calls.
 ; Runs on 64-bit x86 Linux only.
+; Date: 2022-11-22, Author: Daria Bernice Calitis
 ; --------------------------------------------------------------
 
 section .bss
